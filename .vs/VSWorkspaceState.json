@@ -1,0 +1,17 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\application",
+    "\\application\\controllers",
+    "\\application\\controllers\\admin",
+    "\\application\\helpers",
+    "\\application\\models",
+    "\\application\\views",
+    "\\application\\views\\admin",
+    "\\application\\views\\admin\\category",
+    "\\public",
+    "\\public\\admin"
+  ],
+  "SelectedNode": "\\application\\helpers\\common_helper.php",
+  "PreviewInSolutionExplorer": false
+}
